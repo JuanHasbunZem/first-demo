@@ -3,6 +3,12 @@ body {
   text-align: center;
 }
 
+img {
+  float: center;
+  width: 20%;
+  height: 20%;
+}
+
 h1 {
   color: black;
   text-align: center;
