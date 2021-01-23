@@ -22,7 +22,9 @@ _This is a simple website Portfolio page to demonstrate what I have learned at E
 
 
 ## Setup/Installation:
-Follow this link: [Here](https://juanhasbunzem.github.io/first-demo/).
+Using your Github account, go to your GitBash terminal and use: $ git clone https://github.com/JuanHasZem/first-demo  to download a copy of the files used for this project.  
+
+Otherwise, follow this link: [Here](https://juanhasbunzem.github.io/first-demo/).
 
 ## Known Bugs:
 None yet
