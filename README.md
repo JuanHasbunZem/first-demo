@@ -2,7 +2,7 @@
 
 ### By Juan Hasbun
 
-#### Last Updated: 1/16/2021
+#### Last Updated: 1/23/2021
 
 ### A demonstration of the skills Ive learned in after the 2nd week of classes in Epicodus, by creating a Portfolio webpage.
 
